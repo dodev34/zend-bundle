@@ -1,9 +1,6 @@
 {
   "name": "dodev34/zend-bundle",
   "version": "1.0.0",
-  "autoload": {
-      "psr-0": { "": "src/" }
-  },
   "repositories": [
     {
       "type": "symfony-bundle",
