@@ -1,29 +1,4 @@
 {
     "name": "dodev34/zend-bundle",
-    "type": "symfony-bundle",
-    "description": "Zend library",
-    "keywords": ["zend"],
-    "homepage": "https://github.com/dodev34/zend-bundle",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Dodev34",
-            "homepage": "http://www.michel-dourneau.fr/"
-        },
-        {
-            "name": "Michel Dourneau"
-        }
-    ],
-    "require": {
-        "php": ">=5.3.*"
-    },
-    "autoload": {
-        "psr-0": { "Zend": "" }
-    },
-    "minimum-stability": "alpha",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0-dev"
-        }
-    }
+    "version": "1.0.0"
 }
