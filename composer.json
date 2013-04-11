@@ -17,10 +17,10 @@
     "require": {
         "php": ">=5.3.*"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "alpha",
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0"
+            "dev-master": "1.0-dev"
         }
     }
 }
