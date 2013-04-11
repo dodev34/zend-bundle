@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "repositories": [
     {
-      "type": "symfony",
+      "type": "symfony-bundle",
       "url": "https://github.com/dodev34/zend-bundle"
     }
   ],
