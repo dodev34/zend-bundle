@@ -1,0 +1,17 @@
+{
+    "name": "dodev34/zend-bundle",
+    "type": "symfony-bundle",
+    "description": "Zend library",
+    "keywords": ["zend"],
+    "homepage": "https://github.com/dodev34/zend-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dodev34",
+            "homepage": "http://www.michel-dourneau.fr/"
+        },
+        {
+            "name": "Michel Dourneau"
+        }
+    ]
+}
