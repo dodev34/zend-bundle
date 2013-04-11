@@ -7,8 +7,5 @@
       "url": "https://github.com/dodev34/zend-bundle"
     }
   ],
-  "minimum-stability": "RC",
-  "require": {
-     "dodev34/zend-bundle": "dev-master"
-  }
+  "minimum-stability": "master",
 }
