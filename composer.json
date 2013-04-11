@@ -17,6 +17,9 @@
     "require": {
         "php": ">=5.3.*"
     },
+    "autoload": {
+        "psr-0": { "Zend": "" }
+    },
     "minimum-stability": "alpha",
     "extra": {
         "branch-alias": {
