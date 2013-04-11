@@ -10,6 +10,7 @@
       "url": "https://github.com/dodev34/zend-bundle"
     }
   ],
+  "minimum-stability": "master",
   "require": {
      "dodev34/zend-bundle": "master"
   }
